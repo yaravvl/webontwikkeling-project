@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Fireball",
+    "description": "Een klassieke spreuk die 6 schade toebrengt aan een gekozen doelwit.",
+    "cost": 4,
+    "collectible": true,
+    "release_date": "2014-03-11",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/fireball_spell.jpg?raw=true",
+    "rarity": "Free",
+    "type": "Spell",
+    "class": "Mage",
+    "keywords": ["Damage"],
+    "set": {
+      "id": 2,
+      "name": "Basic",
+      "description": "De basis set bevat kaarten die je gratis krijgt als je het spel speelt.",
+      "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/basic_set.jpg?raw=true"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Tirion Fordring",
+    "description": "Taunt. Divine Shield. Deathrattle: Zet je wapen in Ashbringer.",
+    "cost": 8,
+    "collectible": true,
+    "release_date": "2014-12-08",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/tirion_fordring.jpg?raw=true",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "class": "Paladin",
+    "keywords": ["Taunt", "Divine Shield", "Deathrattle"],
+    "set": {
+      "id": 3,
+      "name": "Classic",
+      "description": "De klassieke set bevat kaarten die je kunt krijgen uit klassieke pakjes of de arena.",
+      "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/classic_set.jpg?raw=true"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Leeroy Jenkins",
+    "description": "Charge. Battlecry: Roep twee 1/1 Whelps op voor je tegenstander.",
+    "cost": 5,
+    "collectible": true,
+    "release_date": "2014-12-08",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/leeroy_jenkins.jpg?raw=true",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "class": "Neutral",
+    "keywords": ["Charge", "Battlecry"],
+    "set": {
+      "id": 3,
+      "name": "Classic",
+      "description": "De klassieke set bevat kaarten die je kunt krijgen uit klassieke pakjes of de arena.",
+      "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/classic_set.jpg?raw=true"
+    }
+  },
+  {
+    "id": 4,
+    "name": "C'Thun",
+    "description": "Battlecry: Breng schade toe gelijk aan deze dienaar zijn aanval, willekeurig verdeeld over alle vijanden.",
+    "cost": 10,
+    "collectible": true,
+    "release_date": "2016-04-26",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/c'thun.jpg?raw=true",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "class": "Neutral",
+    "keywords": ["Battlecry"],
+    "set": {
+      "id": 4,
+      "name": "Whispers of the Old Gods",
+      "description": "Deze set bevat kaarten die geïnspireerd zijn door de oude goden en hun dienaren.",
+      "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/whispers_of_the_old_gods.jpg?raw=true"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Reno Jackson",
+    "description": "Battlecry: Als je deck geen dubbele kaarten bevat, herstel je volledige gezondheid.",
+    "cost": 6,
+    "collectible": true,
+    "release_date": "2015-11-12",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/reno_jackson.jpg?raw=true",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "class": "Neutral",
+    "keywords": ["Battlecry"],
+    "set": {
+      "id": 5,
+      "name": "The League of Explorers",
+      "description": "Deze set bevat kaarten die je kunt verdienen door de avontuurlijke missies van de League of Explorers te voltooien.",
+      "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/leage_of_explorers.jpg?raw=true"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Kazakus",
+    "description": "Battlecry: Als je deck geen dubbele kaarten bevat, creëer je een aangepaste spreuk.",
+    "cost": 4,
+    "collectible": true,
+    "release_date": "2016-12-01",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/kazakus.jpg?raw=true",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "class": "Neutral",
+    "keywords": ["Battlecry"],
+    "set": {
+      "id": 6,
+      "name": "Mean Streets of Gadgetzan",
+      "description": "Deze set bevat kaarten die betrekking hebben op de drie criminele bendes van Gadgetzan: de Grimy Goons, de Kabal en de Jade Lotus.",
+      "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/mean_streets_of_gadgetzan.jpg?raw=true"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Deathwing",
+    "description": "Battlecry: Vernietig alle andere minions en gooi je hand weg.",
+    "cost": 10,
+    "collectible": true,
+    "release_date": "2014-12-08",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/deathwing.jpg?raw=true",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "class": "Neutral",
+    "keywords": ["Battlecry"],
+    "set": {
+      "id": 3,
+      "name": "Classic",
+      "description": "De klassieke set bevat kaarten die je kunt krijgen uit klassieke pakjes of de arena.",
+      "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/classic_set.jpg?raw=true"
+    }
+  },
+{
+  "id": 8,
+  "name": "Ysera",
+  "description": "Ysera is een machtige draak die heerst over de Emerald Dream. Ze geeft je elke beurt een speciale kaart uit haar droom.",
+  "cost": 9,
+  "collectible": true,
+  "release_date": "2014-12-08",
+  "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/ysera.jpg?raw=true",
+  "rarity": "Legendary",
+  "type": "Minion",
+  "class": "Neutral",
+  "keywords": [],
+  "set": {
+    "id": 3,
+    "name": "Classic",
+    "description": "De klassieke set bevat kaarten die je kunt krijgen uit klassieke pakjes of de arena.",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/classic_set.jpg?raw=true"
+  }
+},
+{
+  "id": 9,
+  "name": "Lich King",
+  "description": "Taunt. Aan het einde van je beurt, voeg je een Death Knight Card toe aan je hand.",
+  "cost": 8,
+  "collectible": true,
+  "release_date": "2017-08-10",
+  "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/lich_king.jpg?raw=true",
+  "rarity": "Legendary",
+  "type": "Minion",
+  "class": "Neutral",
+  "keywords": ["Taunt"],
+  "set": {
+    "id": 7,
+    "name": "Knights of the Frozen Throne",
+    "description": "Deze set bevat kaarten die te maken hebben met de ijzige troon van de Lich King en de Death Knights.",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/knights_of_the_frozen_throne.jpg?raw=true"
+  }
+},
+{
+  "id": 10,
+  "name": "Archmage Antonidas",
+  "description": "Wanneer je een spreuk speelt, voeg je een 'Fireball' toe aan je hand.",
+  "cost": 7,
+  "collectible": true,
+  "release_date": "2014-12-08",
+  "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/archmage_antonidas.jpg?raw=true",
+  "rarity": "Legendary",
+  "type": "Minion",
+  "class": "Mage",
+  "keywords": [],
+  "set": {
+    "id": 3,
+    "name": "Classic",
+    "description": "De klassieke set bevat kaarten die je kunt krijgen uit klassieke pakjes of de arena.",
+    "image_url": "https://github.com/yaravvl/webontwikkeling-project/blob/main/classic_set.jpg?raw=true"
+  }
+}
+]
